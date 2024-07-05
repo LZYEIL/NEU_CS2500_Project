@@ -1,3 +1,4 @@
-# NEU_CS2500
-Pipe Fantasy Project based on Pipe Mania
+# NEU_CS2500_Final_Project
+Pipe Fantasy is based on 'Pipe Mania'
+
 
