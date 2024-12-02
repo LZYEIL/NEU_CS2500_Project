@@ -1,5 +1,5 @@
-# CS2500 Final Project
-- This is the final project of CS2500-Fundamentals of Computer Science 1 from Northeastern University
+# Pipe Fantasy
+- This is the final project of CS2500 Fall 2023 at Northeastern University
 - Pipe Fantasy is based on 'Pipe Mania'
 
 
