@@ -1,4 +1,4 @@
-# Pipe Fantasy
-- This is the final project of CS2500 Fall 2023 at Northeastern University
-- Pipe Fantasy is based on 'Pipe Mania'
-- Implemented in Dr.Racket(Subfield of Lisp/Scheme as a functional programming language)
+## Northeastern University: CS2500 - Fundies1 (Fall 2023) Projects
+- This repo includes all my project solutions from CS2500 (Fall 2023) at Northeastern University. 
+- HW11 is the final project: Pipe Fantasy based on 'Pipe Mania'.
+
